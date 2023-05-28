@@ -8,7 +8,7 @@ Save files for sans fight if you are too lazy to play the entire run :)
   On linux:
     go to $HOME/.config and rename the "UNDERTALE.sans" to "UNDERTALE" if you aledrdy have "UNDERTALE" folder rename it to something else
  
-# Healing items
+# About the save
 this save has the following healing items:
 
 1 pie
@@ -17,8 +17,16 @@ this save has the following healing items:
 
 1 face steak 
 
-3 snow man pices
+3 snowman pices
 
 2 legendary hero
+
+LVL: 19 HP: 92
+
+gold: 3521
+
+weapon: burnt pan
+
+armor: bandage
 
 hf playing :)
