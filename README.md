@@ -21,12 +21,14 @@ this save has the following healing items:
 
 2 legendary hero
 
-LVL: 19 HP: 92
+few other stuff:
 
-gold: 3521
+  LVL: 19 HP: 92
 
-weapon: burnt pan
+  gold: 3521
 
-armor: bandage
+  weapon: burnt pan
+
+  armor: bandage
 
 hf playing :)
