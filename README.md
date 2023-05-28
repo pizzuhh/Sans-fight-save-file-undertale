@@ -11,9 +11,13 @@ Save files for sans fight if you are too lazy to play the entire run :)
 # Healing items
 this save has the following healing items:
 1 pie
+
 1 instant noodle 
+
 1 face steak 
+
 3 snow man pices
+
 2 legendary hero
 
 hf playing :)
